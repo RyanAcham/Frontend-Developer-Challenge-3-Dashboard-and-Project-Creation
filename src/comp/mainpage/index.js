@@ -63,19 +63,19 @@ function mainpage(props) {
                     <Tab className="cardTab" eventKey="projects" title="Projects">
                       <ListGroup className="listGroup list-group-flush">
                         <ListGroupItem>                       
-                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-web-page-creation">ryanacham: Web Page Creation</a>
+                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-frontend-developer-challenge-1-web-page-creation">ryanacham: Web Page Creation</a>
                           <p className="prjChallenge">Frontend Developer Challenge 1: Web Page Creation</p>
                         </ListGroupItem>
                         <ListGroupItem>                       
-                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-login-system">ryanacham: Login System</a>
+                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-frontend-developer-challenge-2-login-system">ryanacham: Login System</a>
                           <p className="prjChallenge">Frontend Developer Challenge 2: Login System</p>
                         </ListGroupItem>
                         <ListGroupItem>                       
-                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-dashboard-project">ryanacham: Dashboard &amp; Project Creation</a>
+                          <a className="prjTitle" href="ryanacham-frontend-developer-challenge-3-dashboard-and-project-creation">ryanacham: Dashboard &amp; Project Creation</a>
                           <p className="prjChallenge">Frontend Developer Challenge 3: Dashboard and Project Creation</p>
                         </ListGroupItem>
                         <ListGroupItem>                       
-                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-accessibility-intg">ryanacham: Accessibility Integration</a>
+                          <a className="prjTitle" href="https://preprlabs.org/projects/ryanacham-frontend-developer-challenge-4-accessibility-integration">ryanacham: Accessibility Integration</a>
                           <p className="prjChallenge">Frontend Developer Challenge 4: Accessibility Integration</p>
                         </ListGroupItem>
                       </ListGroup>
