@@ -1,6 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
+  "homepage": "https://github.com/RyanAcham/Frontend-Developer-Challenge-3-Dashboard-and-Project-Creation",
   "private": true,
   "scripts": {
     "dev": "next dev",
