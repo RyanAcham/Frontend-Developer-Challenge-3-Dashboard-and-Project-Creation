@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend-Developer-Challenge-3-Dashboard-and-Project-Creation/static/css/main.1360b3d4.css",
+    "main.js": "/Frontend-Developer-Challenge-3-Dashboard-and-Project-Creation/static/js/main.42471b06.js",
+    "index.html": "/Frontend-Developer-Challenge-3-Dashboard-and-Project-Creation/index.html",
+    "main.1360b3d4.css.map": "/Frontend-Developer-Challenge-3-Dashboard-and-Project-Creation/static/css/main.1360b3d4.css.map",
+    "main.42471b06.js.map": "/Frontend-Developer-Challenge-3-Dashboard-and-Project-Creation/static/js/main.42471b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1360b3d4.css",
+    "static/js/main.42471b06.js"
+  ]
+}
