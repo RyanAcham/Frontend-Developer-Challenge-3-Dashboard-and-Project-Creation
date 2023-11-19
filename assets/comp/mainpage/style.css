@@ -1,0 +1,132 @@
+a {
+    color: #27ae60;
+}
+
+.gettingStarted {
+    margin-top: 100px;
+}
+
+.gettingStartedRow {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    flex-wrap: wrap;
+}
+
+.gettingStartedCol {
+    display: flex;
+    flex-direction: column;
+}
+
+.gettingStartedDiv {
+    border: 2px solid #27ae60;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100%;
+    margin-top: auto;
+    margin-bottom: 10px;
+}
+
+.gettingStartedIcon {
+    color: #27ae60;
+}
+
+.gettingStarted-h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.gettingStarted-h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-bottom: 15px;
+}
+
+.gettingStarted-h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-top: 5px;
+    color: #27ae60;
+}
+
+.gettingStarted-p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+
+/* Dashboard */
+
+.dashboard {
+    margin-top: 100px
+}
+
+.dashboardRow {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dashboardCol {
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboardCard {
+    border: 2px solid #d3d2d2;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 100%;
+}
+
+.cardTitle {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.listGroup {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.tabsGroup ul > li > a {
+    background-color: gray;
+    color: white;
+}
+
+.cardTab {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.nav-tabs, .nav-item.show, .nav-link, .nav-tabs, .nav-link.active {
+    color: #27ae60;
+    background-color: #fff;
+    border-color: none;
+    font-size: 0.8rem;
+}
+
+.nav-tabs {
+    border-bottom: none;
+}
+
+.nav-tabs, .nav-link:hover{
+    color: gray;
+}
+
+.noResult {
+    margin: 20px;
+}
