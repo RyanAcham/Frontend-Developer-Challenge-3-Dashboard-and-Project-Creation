@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import { Container, Navbar, Nav, NavDropdown, Image, Form, Button, FormControl } from "react-bootstrap";
-import userImage from "../assets/img/IMG_Niki.jpg"
 
 function Header() {
   
@@ -51,7 +50,7 @@ function Header() {
                 <Button variant="outline-success"><i class="fa fa-search"></i></Button>
               </Form>
               <Nav className="mt-1 mt-lg-0 d-flex ml-auto">
-                  <NavDropdown className="userMenu" id="collapsible-nav-dropdown" title={<div style={{display: "inline-block"}}><Image src={userImage} width="40" roundedCircle/></div>}>
+                  <NavDropdown className="userMenu" id="collapsible-nav-dropdown" title={<div style={{display: "inline-block"}}></div>}>
                       <NavDropdown.Item className="userMenuItem" href="#"><span className="icon"><i class="fas fa-user"></i></span>My Info</NavDropdown.Item>
                       <NavDropdown.Item className="userMenuItem" href="#"><span className="icon"><i class="fas fa-question-circle"></i></span>Help</NavDropdown.Item>
                       <NavDropdown.Item className="userMenuItem" href="#"><span className="icon"><i class="fas fa-inbox"></i></span>Inbox</NavDropdown.Item>
