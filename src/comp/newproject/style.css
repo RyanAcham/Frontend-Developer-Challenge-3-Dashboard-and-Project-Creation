@@ -1,0 +1,20 @@
+.newProjectForm {
+    margin-top: 100px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.formTitle {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.formGroup {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
